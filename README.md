@@ -9,7 +9,7 @@
 ## Usage
 
 Click on `Extensions` then click on `Options` for this extension. Add a comma delimited list of
-file endings – it could be an extension (eg. '.snap') or simply a filename.
+file endings – it could be an extension (eg. `.snap`) or simply a filename.
 
 Then load up a PR and watch those files collapse.
 
