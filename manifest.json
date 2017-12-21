@@ -2,8 +2,8 @@
   "name": "Collapse Files in Github PRs",
   "version": "0.0.2",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
-  "homepage_url": "http://github.com/eggplanetio/",
+  "description": "Automagically collapse any type of file (eg. Jest snapshots, .snap files) in Github PRs.",
+  "homepage_url": "http://github.com/eggplanetio/collapse-files-in-github-prs",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
