@@ -6,6 +6,13 @@
 
 [Install Chrome Extension Here](https://chrome.google.com/webstore/detail/collapse-files-in-github/nelcgcnongfhlecofmdapcagpcphplem)
 
+## Usage
+
+Click on `Extensions` then click on `Options` for this extension. Add a comma delimited list of
+file endings – it could be an extension (eg. '.snap') or simply a filename.
+
+Then load up a PR and watch those files collapse.
+
 ## Screenshot
 
 <img src="https://user-images.githubusercontent.com/659829/34265099-d201dd3c-e629-11e7-9852-98e0d3974b0f.jpg">
